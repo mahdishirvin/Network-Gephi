@@ -10,7 +10,7 @@ Before starting with Gephi, we should familiarize ourselves with 2 terms, one be
 Node: A node is a unique identifier of an object within a data set.
 Edge: An edge is a line that connects two nodes
 In order to import data from excel or csv file into Gephi, you will usually need to prepare following 2 files:
-    1.	Node File – Containing the nodes and its attributes <br/>
+    1.	Node File – Containing the nodes and its attributes 
       a.	The node file must include a column having name ‘ID’ 
       b.	ID column should contain unique entries
     2.	Edge File – Containing the edges and its attributes
